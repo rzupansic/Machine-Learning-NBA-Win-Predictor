@@ -29,3 +29,11 @@ Regardless of if the star players play or rest, back-to-backs have shown to stil
 
 More information can be found here: https://medium.com/@kevhopper92/analyzing-the-impact-of-back-to-backs-on-nba-team-performance-88a4b80a5d99
 
+# How to use
+pip install tensorflow pandas  
+pip install nba_api
+
+python predictor.py
+
+# Disclaimer
+This model has an 65% accuracy rate. I am not responsible for how it is used.
